@@ -1,0 +1,9 @@
+{
+  "elasticsearch": {
+    "url": "",
+    "api_key": ""
+  },
+  "eml_directory": "",
+  "index_name": "emails_ioc",
+  "pipeline": "ent-search-generic-ingestion"
+}
